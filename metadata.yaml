@@ -1,0 +1,32 @@
+_repo: GarthowenA-Story-of-a-Welsh-Homestead_18778
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raine, Allen
+    aliases:
+    - Evans, Anne Adeliza
+    - Puddicombe, Anne Adaliza
+    birthdate: 1836
+    deathdate: 1908
+    gutenberg_agent_id: '8234'
+    url: http://www.gutenberg.org/2009/agents/8234
+    wikipedia: http://cy.wikipedia.org/wiki/Allen_Raine
+description: ''
+gutenberg_issued: '2006-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Wales -- Fiction'
+title: 'Garthowen
+
+  A Story of a Welsh Homestead'
+url: http://www.gutenberg.org/ebooks/18778
